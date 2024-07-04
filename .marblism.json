@@ -1,0 +1,6 @@
+{
+  "commands": {
+    "build": "pnpm run build",
+    "start": "pnpm run start"
+  }
+}
